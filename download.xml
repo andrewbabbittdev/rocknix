@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<images>
+  <stable>
+    <image>
+      <name>AYN Thor</name>
+      <url>https://github.com/UzuCore/ROCKNIXK/releases/download/20261006/ROCKNIX-SM8550.aarch64-20261007.img.gz</url>
+      <sha256>https://github.com/UzuCore/ROCKNIXK/releases/download/20261006/ROCKNIX-SM8550.aarch64-20261007.img.gz.sha256</sha256>
+    </image>
+  </stable>
+</images>
