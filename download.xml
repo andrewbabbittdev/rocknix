@@ -3,8 +3,8 @@
   <stable>
     <image>
       <name>AYN Thor</name>
-      <url>https://github.com/UzuCore/ROCKNIXK/releases/download/20261016/ROCKNIX-SM8550.aarch64-20261016.img.gz</url>
-      <sha256>https://github.com/UzuCore/ROCKNIXK/releases/download/20261016/ROCKNIX-SM8550.aarch64-20261016.img.gz.sha256</sha256>
+      <url>https://github.com/UzuCore/ROCKNIXK/releases/download/20261029/ROCKNIX-SM8550.aarch64-20261029.img.gz</url>
+      <sha256>https://github.com/UzuCore/ROCKNIXK/releases/download/20261029/ROCKNIX-SM8550.aarch64-20261029.img.gz.sha256</sha256>
     </image>
   </stable>
 </images>
